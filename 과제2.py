@@ -12,4 +12,4 @@ try4 = try3[:3]
 try5 = try3[7:25]
 try6 = try3[26:]
 
-print(try4+w+try5+ww+try6)
+print(try4+w+try5+ww+try6) 
