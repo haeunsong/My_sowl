@@ -46,7 +46,6 @@ def start():
     print("종료되었습니다.")
 
 print("사칙연산 시작")
-
 start()
 
 
