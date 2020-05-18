@@ -1,3 +1,4 @@
+
 def inputData():
     while True:
         try :   
@@ -47,6 +48,3 @@ def start():
 
 print("사칙연산 시작")
 start()
-
-
-
